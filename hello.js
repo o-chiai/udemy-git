@@ -1,1 +1,1 @@
-console.log("ブランチ切り替え");
+console.log("mainブランチで変更");
