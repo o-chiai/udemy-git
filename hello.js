@@ -1,1 +1,1 @@
-console.log("change_branch ブランチで変更");
+console.log("pushの練習です");
