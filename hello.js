@@ -1,1 +1,1 @@
-console.log("こんにちは");
+console.log("ブランチ切り替え");
